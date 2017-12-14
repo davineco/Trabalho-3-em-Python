@@ -25,4 +25,4 @@ Para não ocorrer erros, digite apenas os números que o programa indicar e dê 
 Quando for digitar a data de inicio, digitar data sem barras. Ex:29/06/1999 -> 29061999.
 
 
-Ps.:Professor, meu código não executou após eu tentar fazer algumas alterações :/ O senhor poderia analisar a sintaxe do código, mesmo o programa não funcionando, atribuir alguma pontuação? Desde já agradeço
+
